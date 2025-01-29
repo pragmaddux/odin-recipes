@@ -1,0 +1,29 @@
+h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 10px;
+    border: solid purple 5px ;
+    width: auto;
+    text-align: center;
+    
+}
+
+body {
+    background-color: lightgrey;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+img {
+    width: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding:13px
+}
+
+.textblock {
+    background-color: white;
+    width:50%;
+    margin:auto;
+    padding: 10px;
+    border:solid purple 3px;
+}
